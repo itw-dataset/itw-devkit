@@ -1,7 +1,7 @@
 # Into The Wilderness Dataset (ITW)
 
 
-Into The Wilderness (ITW) is a dataset that contains diverse high-resolution color images with accurate, dense, and far-range depth measurements. DIODE is the first public dataset to include **RGBD images of indoor and outdoor scenes obtained with one sensor suite**.
+Into The Wilderness (ITW) is a dataset that contains diverse high-resolution RGB images with accurate and dense depth measurements. DIODE is the first public dataset to include **RGBD images of indoor and outdoor scenes obtained with one sensor suite**.
 
 Refer to our [homepage](https://diode-dataset.org), [dataset sample gallery](https://photos.app.goo.gl/E5tNDDQLNnFhHrjEA) and [technical report](https://arxiv.org/abs/1908.00463) for more details.
 
