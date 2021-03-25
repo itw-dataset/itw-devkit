@@ -13,10 +13,10 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 1. **ITW Depth** (RGB Images, Depth Maps and Depth validity masks):
 
-|     Partition      |                      Amazon Web Service                      | Baidu Cloud Storage                                               |             MD5 Hash             |
-| :----------------: | :----------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------: |
+|     Partition      |                      RGB                      | Depth                                               |             Terrain Segmentation Map             |
+| :----------------: | :-------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------: |
 |    Train (81GB)    | [train.tar.gz](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train.tar.gz](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | 3a94632398fe1d002d89f11743f748b1 |
-| Validation (2.6GB) | [val.tar.gz](http://diode-dataset.s3.amazonaws.com/val.tar.gz) | [val.tar.gz](https://pan.baidu.com/s/18IoX7f9W3F7acP0hjl7NSA) | 5c895d09201b88973c8fe4552a67dd85 |
+|     Test (2.6GB)   | [val.tar.gz](http://diode-dataset.s3.amazonaws.com/val.tar.gz)     | [val.tar.gz](https://pan.baidu.com/s/18IoX7f9W3F7acP0hjl7NSA) | 5c895d09201b88973c8fe4552a67dd85 |
 
 2. **ITW Terrain** (Terrain Segmentation Maps only):
 
