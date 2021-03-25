@@ -24,6 +24,24 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 |    Train (81GB)    | [train_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_depth](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | [train_TM](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) |
 |     Test (2.6GB)   | [test_rgb](http://diode-dataset.s3.amazonaws.com/val.tar.gz)     | [test_depth](https://pan.baidu.com/s/18IoX7f9W3F7acP0hjl7NSA) | [test_TM](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) |
 
+### Terrain Segmentation Map Color Coding
+
+|     Terrain Class      |                      Color Hex Code                      |
+| :--------------------: | :------------------------------------------------------: |
+|   Flat Surface    | FFFF00 |
+|   Dirt Trail    | FA6404 |
+|   Traversable Rocky    | 8D4205 |
+|   Sandy Trail    | CC9D33 |
+|   Traversable Vegetation    | 8ADA55 |
+|   Semi-Traversable Rocky    | D97373 |
+|   Semi-Traversable Vegetation    | 467302 |
+|   Steps    | 646464 |
+|   Non-Traversable Vegetation    | 235945 |
+|   Non-Traversable Ditch    | 7A1631 |
+|   Obstacle    | D11D05 |
+|   Water    | 0D4CFF |
+|   Background    | 04F1FA |
+
 
 ### Dataset Layout
 ITW data is organized hierarchically. Detailed structure is shown as follows:
