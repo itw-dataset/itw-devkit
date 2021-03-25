@@ -11,19 +11,10 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 **Viewing links:**
 
-1. **ITW Depth** (RGB Images, Depth Maps and Depth validity masks):
-
 |     Partition      |                      RGB                      | Depth                                               |             Terrain Segmentation Map             |
 | :----------------: | :-------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------: |
-|    Train (81GB)    | [train.tar.gz](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train.tar.gz](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | 3a94632398fe1d002d89f11743f748b1 |
-|     Test (2.6GB)   | [val.tar.gz](http://diode-dataset.s3.amazonaws.com/val.tar.gz)     | [val.tar.gz](https://pan.baidu.com/s/18IoX7f9W3F7acP0hjl7NSA) | 5c895d09201b88973c8fe4552a67dd85 |
-
-2. **ITW Terrain** (Terrain Segmentation Maps only):
-
-|     Partition      |                      Amazon Web Service                      | Baidu Cloud Storage                                               |             MD5 Hash             |
-| :----------------: | :----------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------: |
-|    Train (126GB)    | [train_normals.tar.gz](http://diode-dataset.s3.amazonaws.com/train_normals.tar.gz) | [train_normals.tar.gz](https://pan.baidu.com/s/1ngYpSuHSC1rdLXu4edAaKA) | 9c0617ebe1eaf1928fdf3344e1c42aef |
-| Validation (4.6GB) | [val_normals.tar.gz](http://diode-dataset.s3.amazonaws.com/val_normals.tar.gz) | [val_normals.tar.gz](https://pan.baidu.com/s/1TLb3hfgK7dAghEOS76ppvg) | 323ccaf60abebdb59705dcd8b529d709 |
+|    Train (81GB)    | [train_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_depth](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | [train_TM](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) |
+|     Test (2.6GB)   | [test_rgb](http://diode-dataset.s3.amazonaws.com/val.tar.gz)     | [test_depth](https://pan.baidu.com/s/18IoX7f9W3F7acP0hjl7NSA) | [test_TM](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) |
 
 
 ### Dataset Layout
