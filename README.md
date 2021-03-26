@@ -41,7 +41,8 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 
 ## 2. Dataset Layout
-ITW data is organized hierarchically. Detailed structure is shown as follows:
+The ITW dataset is organized hierarchically. Detailed structure for each provided data type is illustrated below:
+
 ![Layout](dataset_layout.svg)
 
 ## 3. File Naming Conventions and Formats
