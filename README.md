@@ -42,7 +42,7 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 ## 2. Dataset Layout
 ITW data is organized hierarchically. Detailed structure is shown as follows:
-![Layout](dataset_layout.png)
+![Layout](dataset_layout.svg)
 
 ## 3. File Naming Conventions and Formats
 The dataset consists of RGB images, depth maps and terrain segmentation maps. Their formats are as follows:
