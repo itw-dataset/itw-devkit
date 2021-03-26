@@ -1,5 +1,5 @@
 # Into The Wilderness Dataset (ITW)
-Into The Wilderness (ITW) is a dataset that contains diverse wild outdoor scenes comprising of high-resolution RGB images with accurate and dense depth measurements, as well as color segmented terrain maps. ITW is the first public dataset to include **RGB-D images of completely outdoor and wild scenes obtained with a single RGBD camera**.
+Into The Wilderness (ITW) is a dataset that contains diverse wild outdoor scenes comprising of high-resolution RGB images with accurate and dense depth measurements, as well as color segmented terrain maps. ITW is the first public dataset to include **RGB-D images of completely outdoor and wild scenes obtained with a single RGB-D camera**.
 
 - [1. Dataset Viewing](#1-dataset-viewing)
   - [1.1. Viewing links](#11-viewing-links)
@@ -61,7 +61,7 @@ The dataset consists of RGB images, depth maps and terrain segmentation maps. Th
 
 ## 4. DevKit
 This development toolkit contains:
-1. A JSON file that enumerates the data in ITW. The layout of this file is explained in itw.py. It serves as the single point of reference during dataloading.
+1. A JSON file that enumerates the data in ITW. The layout of this file is explained in `itw.py`. It serves as the single point of reference during dataloading.
 2. A sample pytorch data loading module.
 3. A python file for computation of metrics using numpy.
 4. A python file for capturing images using the Intel RealSense D415 Camera.
