@@ -26,21 +26,21 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 ### Terrain Segmentation Map Color Coding
 
-|     Terrain Class      |                      Color Hex Code                      |
-| :--------------------: | :------------------------------------------------------: |
-|   Flat Surface    |`#FFFF00` |
-|   Dirt Trail    | `#FA6404` |
-|   Traversable Rocky    | `#8D4205` |
-|   Sandy Trail    | `#CC9D33` |
-|   Traversable Vegetation    | `#8ADA55` |
-|   Semi-Traversable Rocky    | `#D97373` |
-|   Semi-Traversable Vegetation    | `#467302` |
-|   Steps    | `#646464` |
-|   Non-Traversable Vegetation    | `#235945` |
-|   Non-Traversable Ditch    | `#7A1631` |
-|   Obstacle    | `#D11D05` |
-|   Water    | `#0D4CFF` |
-|   Background    | `#04F1FA` |
+| Color Hex Code | Terrain Class |
+| :-: | :-: |
+| ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `#FFFF00` | Flat Surface |  
+| ![#FA6404](https://via.placeholder.com/15/FA6404/000000?text=+) `#FA6404` | Dirt Trail |  
+| ![#8D4205](https://via.placeholder.com/15/8D4205/000000?text=+) `#8D4205` | Traversable Rocky |  
+| ![#CC9D33](https://via.placeholder.com/15/CC9D33/000000?text=+) `#CC9D33` | Sandy Trail |  
+| ![#8ADA55](https://via.placeholder.com/15/8ADA55/000000?text=+) `#8ADA55` | Traversable Vegetation |  
+| ![#D97373](https://via.placeholder.com/15/D97373/000000?text=+) `#D97373` | Semi-Traversable Rocky |  
+| ![#467302](https://via.placeholder.com/15/467302/000000?text=+) `#467302` | Semi-Traversable Vegetation |  
+| ![#646464](https://via.placeholder.com/15/646464/000000?text=+) `#646464` | Steps |  
+| ![#235945](https://via.placeholder.com/15/235945/000000?text=+) `#235945` | Non-Traversable Vegetation |  
+| ![#7A1631](https://via.placeholder.com/15/7A1631/000000?text=+) `#7A1631` | Non-Traversable Ditch |  
+| ![#D11D05](https://via.placeholder.com/15/D11D05/000000?text=+) `#D11D05` | Obstacle |  
+| ![#0D4CFF](https://via.placeholder.com/15/0D4CFF/000000?text=+) `#0D4CFF` | Water |  
+| ![#04F1FA](https://via.placeholder.com/15/04F1FA/000000?text=+) `#04F1FA` | Background |  
 
 
 ### Dataset Layout
