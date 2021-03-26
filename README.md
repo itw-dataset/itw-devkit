@@ -18,8 +18,8 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 |     Partition      |                     RGB                      | Raw Depth                                           |             Hole Filled Depth           | Terrain Segmented Maps |
 | :----------------: | :------------------------------------------: | :-------------------------------------------------: | :-------------------------------------: | :------------: |
-|    Train (81GB)    | [train_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_depth_raw](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | [train_depth](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_terrain](http://diode-dataset.s3.amazonaws.com/train.tar.gz) |
-| Test (2.6GB) | [test_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [test_depth_raw](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | [test_depth](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [test_terrain](http://diode-dataset.s3.amazonaws.com/train.tar.gz) |
+|    Train (4.8GB)    | [train_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_depth_raw](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | [train_depth](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_terrain](http://diode-dataset.s3.amazonaws.com/train.tar.gz) |
+| Test (0.8GB) | [test_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [test_depth_raw](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | [test_depth](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [test_terrain](http://diode-dataset.s3.amazonaws.com/train.tar.gz) |
 
 ### 1.2. Terrain Segmentation Map Color Coding
 
