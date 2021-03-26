@@ -54,10 +54,11 @@ ITW data is organized hierarchically. Detailed structure is shown as follows:
 
 ## 3. File Naming Conventions and Formats
 The dataset consists of RGB images, depth maps and terrain segmentation maps. Their formats are as follows:
-- **RGB Images `(*.png)` :** RGB images with a resolution of `1920*1080`
-- **Depth Maps `(*_depth.png)` :** Depth ground truth with a resolution of `1280*720`
-- **Depth validity masks `(*_depth_mask.npy)` :** Binary depth validity masks (1 indicates valid sensor returns and 0 otherwise)
-- **Terrain Segmentation Map `(*_TM.png)` :** Surface normal vector ground truth with the same resolution as the images (Invalid normals are represented as `(0,0,0)`)
+- **RGB Images** `(*.png)` : RGB images with a resolution of `1920*1080`
+- **Depth Maps** `(*_depth.png)` : Depth ground truth with a resolution of `1280*720`
+- **Depth validity masks** `(*_depth_mask.npy)` : Binary depth validity masks (1 indicates valid sensor returns and 0 otherwise)
+- **Terrain Segmentation Map** `(*_TM.png)` : Color segmented terrain maps with the same resolution as the RGB images
+- **Elevation Map** `(*_TM.png)` : Segmentation maps for the 'Incline' and 'Decline' classes, with the same resolution as the RGB images. Areas with no elevation are denoted with `#000000`
 
 ## 4. DevKit
 This development toolkit contains:
