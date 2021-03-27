@@ -52,7 +52,6 @@ The dataset consists of RGB images, depth maps and terrain segmentation maps. Th
 - **Raw Depth Maps (Grayscale)** `(*_depth_gray.png)` : Raw Depth ground truth in grayscale, with a resolution of `1280*720`
 - **Raw Depth Maps (Jet)** `(*_depth_jet.png)` : Raw Depth ground truth in jet color map, with a resolution of `1280*720`
 - **Depth Maps** `(*_depth.png)` : Colorized Depth ground truth with a resolution of `1280*720`
-- **Depth validity masks** `(*_depth_mask.npy)` : Binary depth validity masks (1 indicates valid sensor returns and 0 otherwise)
 - **Terrain Segmentation Map** `(*_TM.png)` : Color segmented terrain maps with the same resolution as the RGB images
 - **Elevation Map** `(*_EM.png)` : Segmentation maps for the 'Incline' and 'Decline' classes, with the same resolution as the RGB images. Areas with no elevation are denoted with `#000000`
 
