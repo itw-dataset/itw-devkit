@@ -19,7 +19,7 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 |     Partition      |                     RGB                      | Raw Depth                                           |             Colorized Depth           | Terrain Segmented Maps |
 | :----------------: | :------------------------------------------: | :-------------------------------------------------: | :-------------------------------------: | :------------: |
 |    Train (4.8GB)    | [train_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_depth_raw](https://pan.baidu.com/s/1Ga9v6jVzyxfu1TUWJzo7mA) | [train_depth](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [train_terrain](http://diode-dataset.s3.amazonaws.com/train.tar.gz) |
-| Test (0.8GB) | [test_rgb](http://diode-dataset.s3.amazonaws.com/train.tar.gz) | [test_depth_raw](https://drive.google.com/drive/folders/1FsW4dHCppSDe-5_mJglHOhDQoQnGSFyO?usp=sharing) | [test_depth](https://drive.google.com/drive/folders/1cBCCPU5hcWdWDfdof1QIeLIl4GHzx0qu?usp=sharing) | [test_terrain](https://drive.google.com/drive/folders/1YhsEDsChikt1XLNuHYUIDoEsTVbLsDIj?usp=sharing) |
+| Test (0.8GB) | [test_rgb](https://drive.google.com/drive/folders/1Vrsp-hatlIXvWF1I2YcxYQv9LbCes1M4?usp=sharing) | [test_depth_raw](https://drive.google.com/drive/folders/1FsW4dHCppSDe-5_mJglHOhDQoQnGSFyO?usp=sharing) | [test_depth](https://drive.google.com/drive/folders/1cBCCPU5hcWdWDfdof1QIeLIl4GHzx0qu?usp=sharing) | [test_terrain](https://drive.google.com/drive/folders/1YhsEDsChikt1XLNuHYUIDoEsTVbLsDIj?usp=sharing) |
 
 ### 1.2. Terrain Segmentation Map Color Coding
 
