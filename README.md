@@ -57,10 +57,11 @@ The dataset consists of RGB images, depth maps and terrain segmentation maps. Th
 
 ## 4. DevKit
 This development toolkit contains:
-1. A JSON file that enumerates the data in ITW. The layout of this file is explained in `itw.py`. It serves as the single point of reference during dataloading.
-2. A sample pytorch data loading module.
-3. A python file for computation of metrics using numpy.
-4. A python file for capturing images using the Intel RealSense D415 Camera.
+1. A JSON file that enumerates the terrain class labels present in ITW. Each class label is mapped to its corresponding color (RGB) values.
+2. A JSON file that enumerates the data in ITW. The layout of this file is explained in `itw.py`. It serves as the single point of reference during dataloading.
+3. A sample pytorch data loading module.
+4. A python file for computation of metrics using numpy.
+5. A python file for capturing images using the Intel RealSense D415 Camera.
 
 ## 5. Contact
 If you have any questions, please contact us at [iccv2021submission@gmail.com](iccv2021submission@gmail.com).
