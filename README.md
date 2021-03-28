@@ -48,7 +48,7 @@ The ITW dataset is organized hierarchically. Detailed structure for each provide
 ## 3. File Naming Conventions and Formats
 The dataset consists of RGB images, depth maps and terrain segmentation maps. Their formats are as follows:
 
-- **RGB Images** `(*.png)` : RGB images with a resolution of `1920*1080`
+- **RGB Images** `(*_rgb.png)` : RGB images with a resolution of `1920*1080`
 - **Raw Depth Maps (Grayscale)** `(*_depth_gray.png)` : Raw Depth ground truth in grayscale, with a resolution of `1280*720`
 - **Raw Depth Maps (Jet)** `(*_depth_jet.png)` : Raw Depth ground truth in jet color map, with a resolution of `1280*720`
 - **Depth Maps** `(*_depth.png)` : Colorized Depth ground truth with a resolution of `1280*720`
