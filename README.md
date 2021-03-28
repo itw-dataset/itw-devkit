@@ -23,7 +23,7 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 ### 1.2 Terrain Segmentation Map Color Coding
 
-#### 1.2.1 Terrain
+#### Terrain:
 
 | Color Hex Code | Terrain Class |
 | :-: | :-: |
@@ -41,7 +41,7 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 | ![#0D4CFF](https://via.placeholder.com/15/0D4CFF/000000?text=+) `#0D4CFF` | Water |  
 | ![#04F1FA](https://via.placeholder.com/15/04F1FA/000000?text=+) `#04F1FA` | Background |
 
-### 1.2.2 Elevation
+#### Elevation:
 
 | Color Hex Code | Elevation Terrain Class |
 | :-: | :-: |
