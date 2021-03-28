@@ -45,9 +45,9 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 
 | Color Hex Code | Elevation Terrain Class |
 | :-: | :-: |
-| ![#B000B5](https://via.placeholder.com/15/B000B5/000000?text=+) `#FFFF00` | Incline |  
-| ![#CDABFF](https://via.placeholder.com/15/CDABFF/000000?text=+) `#FA6404` | Decline |  
-| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#8D4205` | N/A |
+| ![#B000B5](https://via.placeholder.com/15/B000B5/000000?text=+) `#B000B5` | Incline |  
+| ![#CDABFF](https://via.placeholder.com/15/CDABFF/000000?text=+) `#CDABFF` | Decline |  
+| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` | N/A |
 
 
 ## 2. Dataset Layout
