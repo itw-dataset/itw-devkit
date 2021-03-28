@@ -1,0 +1,23 @@
+{
+    "terrain": {
+        "flat_surface" : [255, 255, 0],
+        "dirt_trail" : [250, 100, 4],
+        "traversable_rocky" : [141, 66, 5],
+        "sandy_trail" : [204, 157, 51],
+        "traversable_vegetation" : [138, 218, 85],
+        "semi_traversable_rocky" : [217, 115, 115],
+        "semi_traversable_vegetation" : [70, 115, 2],
+        "steps" : [100, 100, 100],
+        "non_traversable_vegetation" : [35, 89, 69],
+        "non_traversable_ditch" : [122, 22, 49],
+        "obstacle" : [209, 29, 5],
+        "water" : [13, 76, 255],
+        "background" : [4, 241, 250]
+    },
+    
+    "elevation": {
+        "incline" : [176, 0, 181],
+        "decline" : [205, 171, 255],
+        "na" : [0, 0, 0]
+    }
+}
