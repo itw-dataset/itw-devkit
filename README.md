@@ -21,7 +21,9 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 |    Train (4.8GB)    | [train_rgb](https://drive.google.com/drive/folders/1STwUaSCutmrqekYJZGKZ7XyfyvlWkCtk?usp=sharing) | [train_depth_raw](https://drive.google.com/drive/folders/1oJsfPLP5pUc53er2Y22o8QFK6Quxwu_0?usp=sharing) | [train_depth](https://drive.google.com/drive/folders/18PSbS__KZPy7mNA83PUDG3h8259Oht5O?usp=sharing) | [train_terrain](https://drive.google.com/drive/folders/1M2IgyzaAbVJ_Na80yYMKK5hG676gVedF?usp=sharing) |
 | Test (0.8GB) | [test_rgb](https://drive.google.com/drive/folders/1Vrsp-hatlIXvWF1I2YcxYQv9LbCes1M4?usp=sharing) | [test_depth_raw](https://drive.google.com/drive/folders/1FsW4dHCppSDe-5_mJglHOhDQoQnGSFyO?usp=sharing) | [test_depth](https://drive.google.com/drive/folders/1cBCCPU5hcWdWDfdof1QIeLIl4GHzx0qu?usp=sharing) | [test_terrain](https://drive.google.com/drive/folders/1YhsEDsChikt1XLNuHYUIDoEsTVbLsDIj?usp=sharing) |
 
-### 1.2. Terrain Segmentation Map Color Coding
+### 1.2 Terrain Segmentation Map Color Coding
+
+#### 1.2.1 Terrain
 
 | Color Hex Code | Terrain Class |
 | :-: | :-: |
@@ -37,7 +39,15 @@ The train and test splits of Into The Wilderness are available for viewing, incl
 | ![#7A1631](https://via.placeholder.com/15/7A1631/000000?text=+) `#7A1631` | Non-Traversable Ditch |  
 | ![#D11D05](https://via.placeholder.com/15/D11D05/000000?text=+) `#D11D05` | Obstacle |  
 | ![#0D4CFF](https://via.placeholder.com/15/0D4CFF/000000?text=+) `#0D4CFF` | Water |  
-| ![#04F1FA](https://via.placeholder.com/15/04F1FA/000000?text=+) `#04F1FA` | Background |  
+| ![#04F1FA](https://via.placeholder.com/15/04F1FA/000000?text=+) `#04F1FA` | Background |
+
+### 1.2.2 Elevation
+
+| Color Hex Code | Elevation Terrain Class |
+| :-: | :-: |
+| ![#B000B5](https://via.placeholder.com/15/B000B5/000000?text=+) `#FFFF00` | Incline |  
+| ![#CDABFF](https://via.placeholder.com/15/CDABFF/000000?text=+) `#FA6404` | Decline |  
+| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#8D4205` | N/A |
 
 
 ## 2. Dataset Layout
