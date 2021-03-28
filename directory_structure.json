@@ -1,0 +1,150 @@
+{
+    "train": {
+        "rgb": {
+            "forest_trails": {
+                "files": []
+            },
+            "rocky_terrains": {
+                "files": []
+            },
+            "sub_urban_areas": {
+                "files": []
+            }
+        },
+        "depth": {
+            "grayscale": {
+                "forest_trails": {
+                    "files": []
+                },
+                "rocky_terrains": {
+                    "files": []
+                },
+                "sub_urban_areas": {
+                    "files": []
+                }
+            },
+            "jet": {
+                "forest_trails": {
+                    "files": []
+                },
+                "rocky_terrains": {
+                    "files": []
+                },
+                "sub_urban_areas": {
+                    "files": []
+                }
+            }
+        },
+        "depth_colorized": {
+            "forest_trails": {
+                "files": []
+            },
+            "rocky_terrains": {
+                "files": []
+            },
+            "sub_urban_areas": {
+                "files": []
+            }
+        },
+        "terrain": {
+            "forest_trails": {
+                "TM":{
+                    "files": []
+                },
+                "EM":{
+                    "files": []
+                }  
+            },
+            "rocky_terrains": {
+                "TM":{
+                    "files": []
+                },
+                "EM":{
+                    "files": []
+                }  
+            },
+            "sub_urban_areas": {
+                "TM":{
+                    "files": []
+                },
+                "EM":{
+                    "files": []
+                }  
+            }
+        }
+    },
+    "test": {
+        "rgb": {
+            "forest_trails": {
+                "files": []
+            },
+            "rocky_terrains": {
+                "files": []
+            },
+            "sub_urban_areas": {
+                "files": []
+            }
+        },
+        "depth": {
+            "grayscale": {
+                "forest_trails": {
+                    "files": []
+                },
+                "rocky_terrains": {
+                    "files": []
+                },
+                "sub_urban_areas": {
+                    "files": []
+                }
+            },
+            "jet": {
+                "forest_trails": {
+                    "files": []
+                },
+                "rocky_terrains": {
+                    "files": []
+                },
+                "sub_urban_areas": {
+                    "files": []
+                }
+            }
+        },
+        "depth_colorized": {
+            "forest_trails": {
+                "files": []
+            },
+            "rocky_terrains": {
+                "files": []
+            },
+            "sub_urban_areas": {
+                "files": []
+            }
+        },
+        "terrain": {
+            "forest_trails": {
+                "TM":{
+                    "files": []
+                },
+                "EM":{
+                    "files": []
+                }  
+            },
+            "rocky_terrains": {
+                "TM":{
+                    "files": []
+                },
+                "EM":{
+                    "files": []
+                }  
+            },
+            "sub_urban_areas": {
+                "TM":{
+                    "files": []
+                },
+                "EM":{
+                    "files": []
+                }  
+            }
+        }
+    }
+}
