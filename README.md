@@ -12,6 +12,9 @@ Into The Wilderness (ITW) is a dataset that contains diverse wild outdoor scenes
 ## 1. Dataset Viewing
 
 The train and test splits of Into The Wilderness are available for viewing, including RGB images, raw depth maps, processed depth maps and terrain segmentation maps.
+Some sample images are illustrated below.
+
+![Samples](samples.svg)
 
 ### 1.1. Viewing links
 
